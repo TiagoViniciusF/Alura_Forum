@@ -1,4 +1,0 @@
-br/rosaluz/banking/system/authentication/processor/UserAccountProcessor.class
-br/rosaluz/banking/system/authentication/consumer/config/KafkaConsumerConfig.class
-br/rosaluz/banking/system/authentication/consumer/AccountConsumer.class
-br/rosaluz/banking/system/authentication/consumer/dto/AccountConsumerMenssageDTO.class
