@@ -1,5 +1,8 @@
 package br.com.alura.forum.model;
 
+
+
+
 import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;

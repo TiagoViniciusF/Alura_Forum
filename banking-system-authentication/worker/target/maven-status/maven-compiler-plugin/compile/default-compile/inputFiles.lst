@@ -1,0 +1,4 @@
+/home/tiago/AluraProjects/banking-system-authentication/worker/src/main/java/br/rosaluz/banking/system/authentication/consumer/AccountConsumer.java
+/home/tiago/AluraProjects/banking-system-authentication/worker/src/main/java/br/rosaluz/banking/system/authentication/consumer/dto/AccountConsumerMenssageDTO.java
+/home/tiago/AluraProjects/banking-system-authentication/worker/src/main/java/br/rosaluz/banking/system/authentication/processor/UserAccountProcessor.java
+/home/tiago/AluraProjects/banking-system-authentication/worker/src/main/java/br/rosaluz/banking/system/authentication/consumer/config/KafkaConsumerConfig.java

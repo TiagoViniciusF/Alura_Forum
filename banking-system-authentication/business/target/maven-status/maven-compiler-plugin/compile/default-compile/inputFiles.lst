@@ -1,0 +1,9 @@
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/producer/UserProducer.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/service/TokenService.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/service/AuthenticateService.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/producer/dto/converter/UserToUserMessageDTO.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/producer/config/KafkaProducerConfig.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/service/UserService.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/service/UserServiceImpl.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/producer/dto/UserMessageDTO.java
+/home/tiago/AluraProjects/banking-system-authentication/business/src/main/java/br/rosaluz/banking/system/authentication/service/TokenServiceImpl.java

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/banking-system-authentication.iml" filepath="$PROJECT_DIR$/banking-system-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/banking-system-authentication-api.iml" filepath="$PROJECT_DIR$/api/banking-system-authentication-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/banking-system-authentication-business.iml" filepath="$PROJECT_DIR$/business/banking-system-authentication-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-provider/banking-system-authentication-data-provider.iml" filepath="$PROJECT_DIR$/data-provider/banking-system-authentication-data-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker/banking-system-authentication-worker.iml" filepath="$PROJECT_DIR$/worker/banking-system-authentication-worker.iml" />
+    </modules>
+  </component>
+</project>
